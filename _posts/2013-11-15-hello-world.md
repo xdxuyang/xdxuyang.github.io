@@ -1,16 +1,12 @@
 ---
 layout: post
-title: Hello World!
+title: About me
 categories: [general, setup, demo]
 tags: [demo, dbyll, dbtek, setup]
 fullview: true
 comments: true
 ---
 
-**dbyll** is minimalist, stylish theme for jekyll. Supports gravatar, account links (github, twitter, e-mail, pinterest, résume file) and a bio.  
+**Erkun Yang** is currently a PhD candidate in School of Electronic Engineering, Xidian University, under the supervision of Prof. **Cheng Deng(http://see.xidian.edu.cn/faculty/chdeng/)**, and a visiting student in UBTECH Sydney AI Center, University of Sydney (USYD) under the supervision of Prof. **Dacheng Tao(https://sydney.edu.au/engineering/people/dacheng.tao.php)**. He received his bachelor degree in Xidian University in July, 2013. His research interests are Deep Learning, Similarity Search, and Learn to Hash.  
 
-**dbyll** is brought to you by **[dbtek](http://ismaildemirbilek.com)**. Open sourced under [MIT](http://opensource.org/licenses/MIT) license.
-
-### dbyll is on GitHub
-
-<a class="btn btn-default" href="https://github.com/dbtek/dbyll">Grab your copy now!</a>
+**Research Interest** Deep Learning, Similarity Search, and Learn to Hash
