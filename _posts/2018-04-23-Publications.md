@@ -10,7 +10,13 @@ title: Publications
 
 Erkun Yang, Cheng Deng, Chao Li, Wei Liu, Jie Li, Dacheng Tao
 
- IEEE Trans. Neural Netw. Learn. Syst., 2018. 
+ IEEE Trans. Neural Netw. Learn. Syst., 2018.
+ 
+2. **Exploring hybrid spatio-temporal convolutional networks for human action recognition**
+
+Hao Wang, Yanhua Yang, **Erkun Yang**, Cheng Deng
+
+Multimedia Tools and Applications, 2017
  
 ### Conference Proceedings
 1. **Semantic Structure-based Unsupervised Deep Hashing**
