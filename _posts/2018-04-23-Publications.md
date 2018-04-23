@@ -6,9 +6,8 @@ title: Publications
 #description: Sample placeholder post.
 ---
 ### Journal Articles
-1. **Shared Predictive Cross-Modal Deep Quantization**
-
-Erkun Yang, Cheng Deng, Chao Li, Wei Liu, Jie Li, Dacheng Tao
+1. **Shared Predictive Cross-Modal Deep Quantization**\\
+**Erkun Yang**, Cheng Deng, Chao Li, Wei Liu, Jie Li, Dacheng Tao
  IEEE Trans. Neural Netw. Learn. Syst., 2018.
  
 2. **Exploring hybrid spatio-temporal convolutional networks for human action recognition**
