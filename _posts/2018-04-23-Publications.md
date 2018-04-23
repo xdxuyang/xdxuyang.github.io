@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Sample
-categories: [general, demo]
-tags: [demo, dbyll, dbtek]
-description: Sample placeholder post.
+title: Publications
+#categories: [general, demo]
+#tags: [demo, dbyll, dbtek]
+#description: Sample placeholder post.
 ---
 ### Journal Articles
 2. **Shared Predictive Cross-Modal Deep Quantization**
