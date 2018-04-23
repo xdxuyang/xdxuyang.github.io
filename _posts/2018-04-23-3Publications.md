@@ -20,12 +20,4 @@ In International Joint Conference on Artificial Intelligence (IJCAI), 2018.
 2. **Pairwise Relationship Guided Deep Hashing for Cross-Modal Retrieval**\\
 **Erkun Yang**, Cheng Deng, Wei Liu, Xianglong Liu, Dacheng Tao, and Xinbo Gao\\
 In AAAI Conference on Artificial Intelligence (AAAI), 2017.
----
-layout: post
-title: Research Interests
-#categories: [general, setup, demo]
-#tags: [demo, dbyll, dbtek, setup]
-#fullview: true
-#comments: true
----
-Deep Learning, Similarity Search, and Learn to Hash
+
