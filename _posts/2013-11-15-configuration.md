@@ -9,15 +9,13 @@ fullview: true
 In your config file change these settings
 
 {% highlight yaml %}
-title: dbyll
+title: asdfadsfasf
 author:  
-  name: yourname  
+  name: adsfasdfads
   email: youremail  
-  github: asd123  
-  twitter: asd123  
+  github: asdasdfadsfas
   pinterest: asd123  
   linkedin: asd123  
   resume: asd123  
-  bio: Your stylish,  minimalist theme!  
-  email_md5: md5ofemail  
+  bio: Your asdfasdfasdfasdf
 {% endhighlight %}
