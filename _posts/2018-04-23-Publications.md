@@ -6,7 +6,7 @@ title: Publications
 #description: Sample placeholder post.
 ---
 ### Journal Articles
-2. **Shared Predictive Cross-Modal Deep Quantization**
+1. **Shared Predictive Cross-Modal Deep Quantization**
 
 Erkun Yang, Cheng Deng, Chao Li, Wei Liu, Jie Li, Dacheng Tao
 
