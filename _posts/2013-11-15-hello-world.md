@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About me
+title: Biography
 categories: [general, setup, demo]
 tags: [demo, dbyll, dbtek, setup]
 fullview: true
