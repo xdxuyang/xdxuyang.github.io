@@ -39,36 +39,68 @@ tagline:
 
 </article>
 {% endfor %}
-<hr/>
+<div class="Bio">
+    <header>
+        <h1 margin="0px"><i class="fa fa-paperclip"></i> Biography</h1>
+    </header>
+    <p>
+    Erkun Yang is currently a PhD candidate in School of Electronic Engineering, Xidian University, under the supervision of Prof. <a href="http://see.xidian.edu.cn/faculty/chdeng/">Cheng Deng</a>, and he is a visiting student in UBTECH Sydney AI Centre, University of Sydney (USYD), under the supervision of Prof. <a href="https://sydney.edu.au/engineering/people/dacheng.tao.php">Dacheng Tao</a> from Mar 2017. He received his bachelor degree in Xidian University in July, 2013. His research interests are Deep Learning, Similarity Search, and Learn to Hash.  
+    </p>
+</div>
 
-<ul class="pager"> 
+<div class="Research Interests">
+    <header>
+        <h1><i class="fa fa-fire"></i> Research Interests</h1>
+    </header>
+    <p>
+    Deep Learning, Similarity Search, and Learn to Hash
+    </p>
+</div>
 
-  {% if paginator.previous_page %}
-  <li class="previous">
-    {% if paginator.previous_page == 1 %}
-    <a href="{{ site.BASE_PATH }}/">&larr; Newer</a>
-    {% else %}
-    <a href="{{ site.BASE_PATH }}/{{ site.paginate_path | replace: ':num', paginator.previous_page }}">&larr; Newer</a>
-    {% endif %}
-  </li>
-  {% else %}
-  <li class="previous disabled">
-    <a>&larr; Newer</a>
-  </li>
-  {% endif %}
-  
-  <li>
-    <span class="page_number">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-  </li>
 
-  {% if paginator.next_page %}
-  <li class="next">
-    <a href="{{ site.BASE_PATH }}/{{ site.paginate_path | replace: ':num', paginator.next_page }}">Older &rarr;</a>
-  </li>
-  {% else %}
-  <li class="next disabled">
-    <a>Older &rarr;</a>        
-  </li>
-  {% endif %}
+<div class="News">
+    <header>
+        <h1><i class="fa fa-bolt"></i> News</h1>
+    </header>
+    <p>
+    <i class="fa fa-bolt"></i>
+    2018.04 Our paper “Semantic Structure-based Unsupervised Deep Hashing” got accepted by IJCAI 2018.
+    </p>
+    </div>
 
-</ul>
+<div class="Publications">
+    <header>
+        <h1><i class="fa fa-file"></i> Publications </h1>
+    </header>
+    <p><font size="4"><strong>Journal Articles</strong></font></p>
+    <ol>
+        <li>
+            <p>
+                <strong>Shared Predictive Cross-Modal Deep Quantization</strong><br>
+                <strong>Erkun Yang<strong>, Cheng Deng, Chao Li, Wei Liu, Jie Li, Dacheng Tao<br>
+                <em>IEEE Trans. Neural Netw. Learn. Syst., 2018.
+            </p>
+        </li>
+        <li><p>
+                <strong>Exploring hybrid spatio-temporal convolutional networks for human action recognition</strong><br>
+                Hao Wang, Yanhua Yang, <strong>Erkun Yang<strong>, Cheng Deng<br>
+                <em>Multimedia Tools and Applications, 2017
+            </p>
+        </li>
+    </ol>
+    <p><font size="4"><strong>Conference Proceedings</strong></font></p>
+    <ol>
+	<li><p><strong>Semantic Structure-based Unsupervised Deep Hashing</strong><br>
+            <strong>Erkun Yang<strong>, Cheng Deng, Tongliang Liu, Wei Liu, and Dacheng Tao<br>
+            <em>Multimedia Tools and Applications, 2017
+            </p>
+        </li>
+	<li><p><strong>Pairwise Relationship Guided Deep Hashing for Cross-Modal Retrieval</strong><br>
+            <strong>Erkun Yang<strong>, Cheng Deng, Wei Liu, Xianglong Liu, Dacheng Tao, and Xinbo Gao<br>
+            <em>In AAAI Conference on Artificial Intelligence (AAAI), 2017.
+            </p>
+        </li>
+    </ol>
+    
+</div>
+
