@@ -1,7 +1,10 @@
-@import url(//fonts.googleapis.com/css?family=Ubuntu:500&subset=latin,latin-ext);
+@import url(http://fonts.googleapis.com/css?family=Ubuntu:500&subset=latin,latin-ext);
 
 body{
+    font-size: 16px;
+    font-weight: 400;
 	color: #2c3e50;
+    font-family: Tahoma, Arial, sans-serif;
 }
 
 .sidebar {
@@ -34,7 +37,7 @@ a.nav-link {
 a.nav-link i{
 	font-size: 16px;
 }
-a.nav-link:hover { color: #777; }
+a.nav-link:hover { color: #777 }
 
 #bio {
 	font-family: "Courier New", Courier, monospace;
@@ -84,12 +87,6 @@ article .share .gplus:hover {
 .page-header {
 	color: #e74c3c;
 	text-shadow: 1px 1px 1px rgba(150, 150, 150, 1);
-}
-
-@media only screen and (min-width: 768px) {
-    .page-header{
-        margin-right: 70px;
-    }
 }
 
 article{
@@ -188,4 +185,9 @@ footer {
 ul.dropdown-menu>li>a>i.fa {
     width: 1.3em;
 }
-
+h1, h2, h3, h4, h5, h6 {
+    font: normal 165% 'century gothic', arial, sans-serif;
+    color: #2DB8CD;
+    margin: 0 0 14px 0;
+    padding: 10px 0 5px 0;
+}
